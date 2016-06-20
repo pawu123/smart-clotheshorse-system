@@ -1,6 +1,6 @@
 # smart-clotheshorse-system
 
-此系統架構示意圖與簡介位於附檔如
+此系統架構示意圖與簡介如附檔Term project_期末報告_104062606張沛文.docx所示
 
 Requirements----
 1. Arduino Micro * 2
