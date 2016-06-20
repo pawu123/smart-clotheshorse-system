@@ -1,6 +1,6 @@
 # smart-clotheshorse-system
 
-此系統架構示意圖與簡介如附檔"Term project_期末報告_104062606張沛文.docx"所示
+"溫溼度感應自動晾衣系統"為一個能夠依據室外天氣,在下雨前將戶外晾曬衣物收進室內,待雨停後將衣物再次晾曬於戶外的系統。因為材料與能源有限,此處製作的為縮小版模型,架構示意圖與簡介如附檔"Term project_期末報告_104062606張沛文.docx"所示,程式碼位於transmitter.ino與receiver.ino。
 
 
 
